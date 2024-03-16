@@ -1,6 +1,6 @@
 ## Hi, I'm munkeawtoast
 
-She/Her
+They/She
 
 <sub>
     Undergraduate student in Software Engineering branch at KMITL | IT Faculty | Bangkok, Thailand
